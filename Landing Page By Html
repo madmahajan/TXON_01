@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Landing Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Welcome to Our Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section class="hero">
+			<h2>Discover Our Services</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt malesuada risus, id tincidunt eros.</p>
+			<a href="#" class="btn">Learn More</a>
+		</section>
+
+		<section class="features">
+			<h2>Our Features</h2>
+			<div class="feature-item">
+				<img src="https://via.placeholder.com/150" alt="Feature 1">
+				<h3>Feature 1</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt malesuada risus, id tincidunt eros.</p>
+			</div>
+			<div class="feature-item">
+				<img src="https://via.placeholder.com/150" alt="Feature 2">
+				<h3>Feature 2</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt malesuada risus, id tincidunt eros.</p>
+			</div>
+			<div class="feature-item">
+				<img src="https://via.placeholder.com/150" alt="Feature 3">
+				<h3>Feature 3</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt malesuada risus, id tincidunt eros.</p>
+			</div>
+		</section>
+
+		<section class="cta">
+			<h2>Get in Touch</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt malesuada risus, id tincidunt eros.</p>
+			<a href="#" class="btn">Contact Us</a>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2023 Our Website. All rights reserved.</p>
+	</footer>
+</body>
+</html>
